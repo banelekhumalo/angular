@@ -1,0 +1,60 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"Ladies winter clothes",
+      "description":"You do not have to be cold whilst we are around.",
+      "imageUrl":"https://i3.wp.com/ae01.alicdn.com/kf/H2b69ba17a8db497aa6705a72b26853e4u/2020-New-Autumn-Winter-Women-Clothes-Sweater-Long-Sleeve-O-Neck-Sweaters-Solid-Buttons-Tops-Slim.jpg_350x350.jpg?h=300&quality=70",
+      "price": 450
+    },
+    {
+      "id":2,
+      "name":"Casual shirt for guys",
+      "description":"All events shirt, we've got you.Lets give you an african touch.",
+      "imageUrl":"https://netstorage-yen.akamaized.net/images/3o3bpd1gua0d0vs9a8.png",
+      "price": 750
+    },
+    {
+      "id":3,
+      "name":"African modern white dress",
+      "description":"Get your wedding dress you have been longing for without losing the african culture.",
+      "imageUrl":"https://tbn.bidorbuy.co.za/image/fetch/c_limit,h_448,q_auto:eco,w_448/https://img.bidorbuy.co.za/image/upload/v1572619644/user_images/597/3755597/191101164721_il_fullxfull.1778104361_amnq.jpg",
+      "price": 3800
+    },
+    {
+      "id":4,
+      "name":"aFricaN Demin Jacket",
+      "description":" Classy and do not forget your roots",
+      "imageUrl":"https://cdn.shopify.com/s/files/1/0684/2619/products/Keledenimjacketonmalemodel_1_429x600.jpg?v=1594953184",
+      "price": 630
+    },
+    {
+      "id":5,
+      "name":"Full combo",
+      "description":"a bag tells a story and complements your dress!",
+      "imageUrl":"https://cdn.shopify.com/s/files/1/0108/7812/4113/products/WhatsApp_Image_2020-01-05_at_11.50.16_PM_13_540x.jpg?v=1582944326",
+      "price": 1000
+    }
+  ],
+  "cart":[
+    
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

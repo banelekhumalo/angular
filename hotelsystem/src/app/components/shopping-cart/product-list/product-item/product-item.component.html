@@ -1,0 +1,20 @@
+<div class="col-md-4 shadow-sm">
+    <div class="card mb-4 shadow-sm">
+      <img [src]="productItem.imageUrl"
+      style="width:250px; height:250px;"/>
+      <div class="card-body">
+        <p class="card-text">{{productItem.description | slice: 0:80}}}...</p>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="btn-group">
+            <button
+            type="button" class="btn btn-sm btn-secondary product-btn"
+            (click)="handleAddToCart()"
+            >Add</button>
+            <button type="button" class="btn btn-sm btn-secondary product-btn">View</button>
+          </div>
+          <small class="text-muted">updated 9min ago</small><br>
+            <strong>{{ productItem.price|currency:'ZAR'}}</strong>
+        </div>
+      </div>
+    </div>
+
